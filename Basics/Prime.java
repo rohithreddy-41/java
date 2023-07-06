@@ -7,7 +7,7 @@ public class Prime {
         
         // Read an integer from the user
         int n = sc.nextInt();
-        
+         
         // Initialize a counter variable to count the factors of 'n'
         int count = 0;
         
@@ -15,7 +15,7 @@ public class Prime {
         for (int i = 1; i <= n; i++) {
             // Check if 'n' is divisible evenly by 'i'
             if (n % i == 0) {
-				// Increment the counter if 'i' is a factor of 'n'
+			// Increment the counter if 'i' is a factor of 'n'
                 count++;  
             }
         }
