@@ -15,7 +15,7 @@ public class Stringmethods3 {
         // Comparing strings lexicographically
         System.out.println("compare");
         String str4 = new String("Java programming");
-        System.out.println(str2.compareTo(str1)); // -14 (comparison result)
+        System.out.println(str3.compareTo(str4)); 
         
         // Comparing strings using '==' and 'equals'
         System.out.println("equals");
