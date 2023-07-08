@@ -10,7 +10,7 @@ public class Stringbasics {
         System.out.println(str1);
         
         // Creating a string from a character array
-        char c[] = {'a', 'p', 'p', 'l', 'e'};
+        char c[] = {'a', 'p', 'p', 'l', 'e'}; 
         String str2 = new String(c, 0, 5);
         System.out.println(str2);
         
@@ -32,6 +32,6 @@ public class Stringbasics {
         
         // Comparing values using 'equals' method
         // true (same content)
-        System.out.println(str5.equals(str7)); // true (same content)
+        System.out.println(str5.equals(str7)); 
     }
 }
