@@ -16,7 +16,7 @@ public class Stringbasics {
         
         // Creating a string from a byte array
         byte b[] = {65, 66, 67, 68, 69};
-        String str3 = new String(b, 0, 2);
+        String str3 = new String(b, 0, 3);
         System.out.println(str3);
         
         // Comparing strings
