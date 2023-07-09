@@ -8,7 +8,7 @@ public class StringCleanup {
         System.out.println(a);
         
         // Removing all spaces from a string
-        String str1 = "       ab  c d   e      f  ";
+        String str1 = "       ab  c d   e     f  ";
         String b = str1.replaceAll(" ", "");
         System.out.println(b);
         
