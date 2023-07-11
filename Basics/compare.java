@@ -1,7 +1,7 @@
 public class compare {
     
     public static void main(String[] args) {
-        // Declare and initialize string variables
+       // Declare and initialize string variables
         String str5 = "java";
         String str6 = "java";
         String str7 = new String("java");
