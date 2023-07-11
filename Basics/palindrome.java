@@ -13,7 +13,7 @@ public class palindrome {
 		int m = n; 
 		int r;
 		
-		// Reverse the number by extracting digits from right to left
+		 // Reverse the number by extracting digits from right to left
 		while (n > 0) {
 			// Extract the last digit
 			r = n % 10; 
