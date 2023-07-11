@@ -13,7 +13,7 @@ public class armstrong {
 		
 		// Calculate the sum of cubes of individual digits
 		while (n > 0) {
-			 // Extract the last digit
+			// Extract the last digit
 			r = n % 10;
 			// Remove the last digit
 			n = n / 10; 
