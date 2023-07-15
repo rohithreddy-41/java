@@ -6,7 +6,7 @@ public class armstrong {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a number: ");
 		int n = sc.nextInt();
-		 // Store the original number for comparison
+		// Store the original number for comparison
 		int m = n;
 		int sum = 0;
 		int r;
