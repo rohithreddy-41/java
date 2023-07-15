@@ -1,4 +1,4 @@
-public class arrjagged {
+public class arrayjagged {
 	
 	public static void main (String[] args) {
 		int a[][];
