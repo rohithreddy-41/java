@@ -10,7 +10,7 @@ public class arraysecondmax {
 		
 		// Find the second maximum element in the array
 		for (int i = 0; i < a.length; i++) {
-			if (a[i] > max1) {
+			 if (a[i] > max1) {
 				// If the current element is greater than max1,
 				// update max2 to max1 and max1 to the current element
 				max2 = max1;
