@@ -3,7 +3,7 @@ public class ArrayReverse {
         // Reverse an array
 
         // Declare and initialize the array
-        int a[] = {2, 3, 4, 5, 6,7};
+        int a[] = {2, 3, 4, 5, 6,7,8,9};
 
         // Iterate through the array in reverse order
         for (int i = a.length - 1; i >= 0; i--) {
