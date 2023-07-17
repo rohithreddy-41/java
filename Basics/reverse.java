@@ -16,7 +16,7 @@ public class reverse {
 			r = n % 10;
 			 // Remove the last digit
 			n = n / 10;
-			 // Append the digit to the reversed number
+			// Append the digit to the reversed number
 			rev = rev * 10 + r;
 		}
 		
