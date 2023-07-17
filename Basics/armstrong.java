@@ -11,7 +11,7 @@ public class armstrong {
 		int sum = 0;
 		int r;
 		
-		// Calculate the sum of cubes of individual digits
+		 // Calculate the sum of cubes of individual digits
 		while (n > 0) {
 			// Extract the last digit
 			r = n % 10;
