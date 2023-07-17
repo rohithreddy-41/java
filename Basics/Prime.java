@@ -11,7 +11,7 @@ public class Prime {
         // Initialize a counter variable to count the factors of 'n'
         int count = 0;
         
-        // Iterate from 1 to 'n' to check for factors
+         // Iterate from 1 to 'n' to check for factors
         for (int i = 1; i <= n; i++) {
             // Check if 'n' is divisible evenly by 'i'
             if (n % i == 0) {
