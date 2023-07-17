@@ -13,7 +13,7 @@ public class fibonacci {
 
 		// Generate the remaining Fibonacci numbers
 		for (int i = 0; i < n; i++) {
-			// Calculate the next Fibonacci number by summing the previous two numbers
+		// Calculate the next Fibonacci number by summing the previous two numbers
 			int c = a + b;
 			System.out.print(c + ",");
 
