@@ -8,8 +8,8 @@ public class factorial {
 		int n = sc.nextInt();
 		// Initialize factorial variable to 1
 		long fact = 1; 
-		
-		// Calculate the factorial of the given number
+		 
+		 // Calculate the factorial of the given number
 		for (int i = 1; i <= n; i++) {
 			// Multiply factorial by each number from 1 to n
 			fact = fact * i; 
