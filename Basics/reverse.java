@@ -14,7 +14,7 @@ public class reverse {
 		while (n > 0) {
 			 // Extract the last digit
 			r = n % 10;
-			 // Remove the last digit
+			// Remove the last digit
 			n = n / 10;
 			// Append the digit to the reversed number
 			rev = rev * 10 + r;
