@@ -16,7 +16,7 @@ public class compare {
         System.out.println(str5.equals(str7)); 
         // Output: true
         // Explanation: The equals() method compares the actual content of the strings.
-        // Here, str5 and str7 have the same sequence of characters, "java", so the comparison is true.
+       // Here, str5 and str7 have the same sequence of characters, "java", so the comparison is true.
         
         // Compare using == operator
         System.out.println(str5 == str6); 
