@@ -29,7 +29,7 @@ public class palindrome {
 		} else {
 			System.out.println("The number is not a palindrome.");
 		}
-		
-		sc.close(); // Close the scanner to release system resources
+		// Close the scanner to release system resources
+		sc.close(); 
 	}
 }
