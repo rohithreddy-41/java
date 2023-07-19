@@ -24,7 +24,7 @@ public class fibonacci {
 
 		// Fibonacci sequence generation complete
 		System.out.println("Fibonacci sequence generated successfully.");
-		 // Close the scanner to release system resources
+		// Close the scanner to release system resources
 		sc.close();
 	}
 }
