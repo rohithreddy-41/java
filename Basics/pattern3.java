@@ -11,7 +11,7 @@ public class pattern3 {
                 System.out.print(j + ", "); 
             }
             
-             // Move to the next line after each row is printed
+            // Move to the next line after each row is printed
             System.out.println("");
         }
     }
