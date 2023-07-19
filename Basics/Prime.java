@@ -13,7 +13,7 @@ public class Prime {
         
          // Iterate from 1 to 'n' to check for factors
         for (int i = 1; i <= n; i++) {
-            // Check if 'n' is divisible evenly by 'i'
+             // Check if 'n' is divisible evenly by 'i'
             if (n % i == 0) {
 			// Increment the counter if 'i' is a factor of 'n'
                 count++;  
