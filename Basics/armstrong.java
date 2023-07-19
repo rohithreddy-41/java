@@ -21,7 +21,7 @@ public class armstrong {
 			sum = sum + r * r * r; 
 		}
 		
-		// Check if the number is an Armstrong number
+		 // Check if the number is an Armstrong number
 		if (m == sum) {
 			System.out.println("Armstrong number");
 		} else {
