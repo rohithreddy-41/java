@@ -11,7 +11,7 @@ public class arraymin {
         for (int i = 0; i < a.length; i++) {
             // Check if the current element is smaller than the current minimum
             if (a[i] < min) {
-                // If it is, update the minimum value
+                 // If it is, update the minimum value
                 min = a[i];
             }
         }
