@@ -15,7 +15,7 @@ public class arrayrevcopy {
 			b[j]=a[i];
 		}
 		
-		// Print the elements of array 'b'
+		 // Print the elements of array 'b'
 		for(int x:b) {
 			System.out.print(x+",");
 		}
