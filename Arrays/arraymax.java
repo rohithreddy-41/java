@@ -4,7 +4,7 @@ public class arraymax {
         // Initialize an array of integers
         int a[] = {2, 3, 1, 4, 13, 5, 6, 90};
 
-        // Initialize the maximum value with the first element of the array
+         // Initialize the maximum value with the first element of the array
         int max = a[0];
 
         // Iterate over the array to find the maximum value
