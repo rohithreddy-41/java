@@ -2,7 +2,7 @@ public class arraycopying {
 	
 	public static void main (String[] args) {
 		// Initialize an array 'a' with values
-		int a[]={2,3,4,5,6,7,8,9,10,11};
+		int a[]={2,3,4,5,6,7,8,9,10,20};
 		
 		// Create a new array 'b' with the same size as 'a'
 		int b[]=new int[10];
