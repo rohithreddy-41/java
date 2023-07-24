@@ -19,7 +19,7 @@ public class arrayjagged {
 				// Print the element at the current position
 				System.out.print(a[i][j]+" ");
 			}
-			// Move to the next line after printing all elements in a row
+			 // Move to the next line after printing all elements in a row
 			System.out.println("");
 		}
 	}
