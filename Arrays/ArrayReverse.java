@@ -1,6 +1,6 @@
 public class ArrayReverse {
     public static void main(String[] args) {
-        // Reverse an array
+         // Reverse an array
 
         // Declare and initialize the array
         int a[] = {2, 3, 4, 5, 6,7,8,9};
