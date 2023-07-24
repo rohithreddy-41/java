@@ -12,7 +12,7 @@ public class arrayinsert {
 
         // Current number of elements in the array
         int n = 5; 
-         // Value to be inserted
+        // Value to be inserted
         int t = 4;
          // Index at which the value should be inserted
         int index = 2;
