@@ -8,7 +8,7 @@ public class arraydelete {
             a[i - 1] = a[i];
         }
 
-        // Loop to print the modified array after deletion
+         // Loop to print the modified array after deletion
         for (int i = 0; i < a.length - 1; i++) {
             System.out.print(a[i] + " ");
         }
